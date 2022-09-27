@@ -1,0 +1,24 @@
+table {
+    border-style:groove ;
+    border-color: cadetblue;
+    background-color:aquamarine;
+}
+body {
+    background-color: beige;
+}
+h1 {
+    color: darkslategray;
+}
+td {
+    text-align: center;
+}
+a {
+    color:palevioletred
+}
+.milestone {
+    font-size: 48px;
+    text-align: center;
+}
+.mag {
+    text-align: center;
+}
