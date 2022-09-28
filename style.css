@@ -1,7 +1,7 @@
 table {
     border-style:groove ;
     border-color: cadetblue;
-    background-color:aquamarine;
+    background-color:darkslategray;
 }
 body {
     background-color: beige;
@@ -11,9 +11,10 @@ h1 {
 }
 td {
     text-align: center;
+    color:azure
 }
 a {
-    color:palevioletred
+    color: wheat
 }
 .milestone {
     font-size: 48px;
@@ -21,4 +22,13 @@ a {
 }
 .mag {
     text-align: center;
+}
+img {
+    width: 350px
+}
+h3 {
+    color:blue
+}
+.carousel {
+    width: 300px
 }
